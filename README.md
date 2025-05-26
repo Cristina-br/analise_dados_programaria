@@ -4,9 +4,19 @@ Este projeto foi desenvolvido como parte do **Curso de Dados da [PrograMaria](ht
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo principal
 
 Investigar os dados da pesquisa realizada com mais de 4 mil participantes, com foco em diversidade de gênero, raça/etnia, região, escolaridade, senioridade e média salarial. O objetivo principal foi extrair insights que evidenciem desigualdades e inspirem ações para promover inclusão no setor de tecnologia.
+
+---
+
+## 🧠 Objetivos técnicos do projeto
+
+- 📈 Explorar, limpar e organizar conjuntos de dados usando Pandas
+- 🔍 Obter insights a partir de agrupamentos, contagens e filtros
+- 🧹 Tratar dados nulos e valores inconsistentes
+- 📊 Aplicar e interpretar uma Regressão Linear simples
+- 🧮 Visualizar resultados com gráficos
 
 ---
 
@@ -53,7 +63,16 @@ Foi aplicada uma **regressão linear simples** para entender a relação entre o
 - Matplotlib  
 - Seaborn  
 - Scikit-learn  
-- Google Colab / Jupyter Notebook
+- Google Colab
+
+---
+
+## 💡 Aprendizados
+
+- Prática com análise exploratória de dados
+- Criação de pipelines simples para preparação dos dados
+- Interpretação de gráficos e resultados de regressão linear
+- Aprofundamento no uso do Google Colab como ambiente de desenvolvimento
 
 ---
 
