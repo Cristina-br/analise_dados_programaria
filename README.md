@@ -1,4 +1,4 @@
-# 📊 Análise de Diversidade na Tecnologia — PrograMaria 2022
+# 📊 Análise de Diversidade na Tecnologia — PrograMaria
 
 Este projeto foi desenvolvido como parte do **Curso de Dados da [PrograMaria](https://www.programaria.org/)**, com o objetivo de explorar, analisar e comunicar informações relevantes sobre diversidade na área de tecnologia em Dados no Brasil.
 
