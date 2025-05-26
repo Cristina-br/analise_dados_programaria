@@ -16,7 +16,14 @@ Investigar os dados da pesquisa realizada com mais de 4 mil participantes, com f
 |--------|-----------|
 | `analise_dados.ipynb` | Análise exploratória dos dados com gráficos, tabelas e observações |
 | `regressao_linear.ipynb` | Regressão linear para investigar relação entre gênero, etnia e salário |
-| **[Análise de Diversidade 2022 - Dashboard interativo no Looker](https://lookerstudio.google.com/s/kMxenRu4NGk)**
+
+---
+
+## 📊 Dashboard Interativo
+
+Você pode explorar o dashboard interativo completo no Looker Studio para visualizar os principais indicadores e insights da análise:
+
+**[Análise de Diversidade 2022 - Dashboard no Looker Studio](https://lookerstudio.google.com/s/kMxenRu4NGk)**
 
 ---
 
